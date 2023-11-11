@@ -1,0 +1,680 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "JEOMHOEqxOkC",
+    "etag": "ZG1zPnGf4+o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JEOMHOEqxOkC",
+    "volumeInfo": {
+      "title": "Extreme programming",
+      "subtitle": "précis & concis",
+      "authors": ["Chromatic"],
+      "publisher": "O'Reilly Media, Inc.",
+      "publishedDate": "2005",
+      "description": "L'Extreme Programrning, ou XP, est une nouvelle approche du développement logiciel. Cette méthode met l'accent sur la simplicité, le feedback et l'implication de tous les membres d'un projet. Si vous êtes en retard dans votre projet, si vous avez dépassé votre budget, si vous avez perdu des heures et des heures à déboguer votre code, pourquoi ne pas envisager l'approche XP ? Ce guide présente ce qu'est XP et vous montre comment elle peut améliorer réellement votre manière de travailler. Il explique les différentes composantes de cette méthode les règles de base, les bonnes pratiques, la manière de coder (du code simple et réutilisable), l'organisation du travail en équipe, les relations avec le client, la gestion du calendrier. Si vous rencontrez des difficultés pour mener à bien vos projets, que vous soyez développeur, manager ou client, ce précis & concis vous montrera que XP peut vous aider à créer de bons systèmes répondant aux attentes métier et cela avec les ressources à votre disposition. XP a quelque chose à vous apprendre, ne serait-ce qu'à retrouver le plaisir de la programmation.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "2841773582"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9782841773589"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 124,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=JEOMHOEqxOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=JEOMHOEqxOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "fr",
+      "previewLink": "http://books.google.com/books?id=JEOMHOEqxOkC&pg=PR9&dq=programming/&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=JEOMHOEqxOkC&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Extreme_programming.html?hl=&id=JEOMHOEqxOkC"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=JEOMHOEqxOkC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eProgramming\u003c/b\u003e , la présentation la plus complète et précise des mots que tous les adeptes de l&#39;Extreme \u003cb\u003eProgramming\u003c/b\u003e utilisent pour décrire ce qu&#39;ils font . Jusqu&#39;à présent , ceux qui souhaitaient comprendre l&#39;Extreme \u003cb\u003eProgramming\u003c/b\u003e devaient&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "JKZ2DwAAQBAJ",
+    "etag": "YWrVt04lMoQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JKZ2DwAAQBAJ",
+    "volumeInfo": {
+      "title": "Fundamentals of Computers and Programming: An Arabic Textbook",
+      "authors": ["Jamil Ahmed Itmazi"],
+      "publisher": "Lulu.com",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780359198979"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "035919897X"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 280,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=JKZ2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=JKZ2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "ar",
+      "previewLink": "http://books.google.com/books?id=JKZ2DwAAQBAJ&pg=PT59&dq=programming/&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=JKZ2DwAAQBAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Computers_and_Programmin.html?hl=&id=JKZ2DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Fundamentals_of_Computers_and_Programmin-sample-pdf.acsm?id=JKZ2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=JKZ2DwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e): وتختصر إلى (OOP)، وعربياً تجدها بأسماء عديدة مثل البرمجة كائنية المنحى، والبرمجة الشيئية، والبرمجة الكائنية، أو البرمجية غرضية التوجه...إلخ، وهي عبارة عن أسلوب أو نمط حديث للبرمجة حيث أصبحت وحدة بناء البرنامج تعتمد على&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "I03zDwAAQBAJ",
+    "etag": "QOperSxDJa8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/I03zDwAAQBAJ",
+    "volumeInfo": {
+      "title": "PLC S7-300 / S7-400 (PROGRAMMING) - برمجة التحكم المنطقى م.ريمون كمال",
+      "subtitle": "أحدى اصدارات م. ريمون كمال فى مجال الذكاء الصناعى",
+      "authors": ["ريمون كمال "],
+      "publisher": "ريمون كمال",
+      "description": "نظرا للطلب المستمر والمتزايد من قبل قراء الأربع أجزاء التي أصدرت من قبل بخصوص برجمة التحكم الإلي من نوع S7-200 والتي حققت قبول لدى كثير من العاملين في هذا المجال حيث قد تخطى عدد الكتب المباعة خمسون إلف نسخة في خلال ثلاث اعوام على أن يتم تأليف مجموعة كتب بنفس الطريقة لتواكب كل ما هوه حديث لشرح الأنواع الجديدة من أجهزة التحكم فلذلك تم إصدار هذا الكتاب كجزء واحد وحيد لشرح جميع أساسيات البرمجة الخاصة بوحدات البرمجة من نوع S7-300 / S7-400 باستخدام برنامج الـ SIMATIC MANAGER",
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 336,
+      "printType": "BOOK",
+      "categories": ["Art"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "0.0.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=I03zDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=I03zDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "ar",
+      "previewLink": "http://books.google.com/books?id=I03zDwAAQBAJ&pg=PA323&dq=programming/&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=I03zDwAAQBAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/PLC_S7_300_S7_400_PROGRAMMING_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9.html?hl=&id=I03zDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=I03zDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e error ( OB not loaded 3 01 : 55 : 05.20 PM 06/28/2015 FC not loaded 01 : 39 : 14.157 PM 05202015 Mode transition from STARTUP to RUN 01 : 35 : 14.167 FM 06/28/2015 Request for manual warm restart 6 01 : 39 : 14.039 PM 06/28&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "u13hVoYVZa8C",
+    "etag": "O7dciA94VSY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/u13hVoYVZa8C",
+    "volumeInfo": {
+      "title": "Planning Extreme Programming",
+      "authors": ["Kent Beck", "Martin Fowler"],
+      "publisher": "Addison-Wesley Professional",
+      "publishedDate": "2001",
+      "description": "Without careful ongoing planning, the software development process can fall apart. Extreme Programming (XP) is a new programming discipline, or methodology, that is geared toward the way that the vast majority of software development projects are handled -- in small teams. In this new book, noted software engineers Kent Beck and Martin Fowler show the reader how to properly plan a software development project with XP in mind. The authors lay out a proven strategy that forces the reader to plan as their software project unfolds, and therefore avoid many of the nasty problems that can potentially spring up along the way.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0201710919"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780201710915"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 162,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "averageRating": 4,
+      "ratingsCount": 6,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.4.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=u13hVoYVZa8C&printsec=frontcover&dq=programming/&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=u13hVoYVZa8C&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Planning_Extreme_Programming.html?hl=&id=u13hVoYVZa8C"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=u13hVoYVZa8C&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "In this new book, noted software engineers Kent Beck and Martin Fowler show the reader how to properly plan a software development project with XP in mind."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "YjcZAQAAIAAJ",
+    "etag": "Q7lyaBuTymQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YjcZAQAAIAAJ",
+    "volumeInfo": {
+      "title": "Logic Programming",
+      "subtitle": "Proceedings of the Eighth International Conference",
+      "authors": ["Kōichi Furukawa"],
+      "publishedDate": "1991",
+      "description": "June 25-28, 1991 Paris, France Topics covered: Theory and Foundations. Applications. Implementation, Machines, and Architectures. Parallel Execution. Programming Methodology and Tools. Logical Languages for Parallelism. Relations with Software Engineering. Relations with Deductive Databases. Relations with Artificial Intelligence. Extensions, Constraints.",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "STANFORD:36105113906379"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 988,
+      "printType": "BOOK",
+      "categories": ["Logic programming"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=YjcZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YjcZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=YjcZAQAAIAAJ&q=programming/&dq=programming/&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=YjcZAQAAIAAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Logic_Programming.html?hl=&id=YjcZAQAAIAAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=YjcZAQAAIAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eProgramming\u003c/b\u003e Series Research Reports and Notes Logic \u003cb\u003eProgramming\u003c/b\u003e Proceedings of the Eighth International Conference edited by Koichi Furukawa Topics covered : Theory and Foundations . Applications . Implementation , Machines , and&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "OZhAL0K1k_0C",
+    "etag": "6qnm2FvZcHI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/OZhAL0K1k_0C",
+    "volumeInfo": {
+      "title": "Perl Programming for Medicine and Biology",
+      "authors": ["Jules J. Berman"],
+      "publisher": "Jones & Bartlett Learning",
+      "publishedDate": "2007",
+      "description": "Written for biomedical professionals and hospital practitioners interested in creating their own programs, Perl Programming for Medicine and Biology, discusses and reviews biomedical data resources, data standards, data organization, medicolegal and ethical conduct for data miners, and grants-related data sharing responsibilities. It teaches readers the basic Perl programming skills necessary for collecting, analyzing, and distributing biomedical data and provides solutions to in-depth problems that face researchers and healthcare professionals. Non-technical \"Background\" sections open each chapter to help non-programmers easily comprehend programming procedures. Explanations are provided for the biomedical issues underlying the Perl scripts that follow, and examples of real-world implementation are provided. Perl Programming for Medicine and Biology will show you how to transform, merge, and examine large and complex databases with ease.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "076374333X"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780763743338"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 428,
+      "printType": "BOOK",
+      "categories": ["Biology"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.7.3.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=OZhAL0K1k_0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=OZhAL0K1k_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=OZhAL0K1k_0C&pg=PA1&dq=programming/&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=OZhAL0K1k_0C&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Perl_Programming_for_Medicine_and_Biolog.html?hl=&id=OZhAL0K1k_0C"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Perl_Programming_for_Medicine_and_Biolog-sample-pdf.acsm?id=OZhAL0K1k_0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=OZhAL0K1k_0C&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e language . LIST I.I.I.THREE \u003cb\u003ePROGRAMMING\u003c/b\u003e TRICKS IN BIOMEDICINE File parsing ( opening a file and examining the contents of the file , one line at a time ) Pattern matching ( finding a fragment of parsed text that matches a&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "7PPnCAAAQBAJ",
+    "etag": "EjM2vNB1AdE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7PPnCAAAQBAJ",
+    "volumeInfo": {
+      "title": "Fractional Programming",
+      "subtitle": "Theory, Methods and Applications",
+      "authors": ["I.M. Stancu-Minasian"],
+      "publisher": "Springer Science & Business Media",
+      "publishedDate": "2012-12-06",
+      "description": "Mathematical programming has know a spectacular diversification in the last few decades. This process has happened both at the level of mathematical research and at the level of the applications generated by the solution methods that were created. To write a monograph dedicated to a certain domain of mathematical programming is, under such circumstances,especially difficult. In the present monograph we opt for the domain of fractional programming. Interest of this subject was generated by the fact that various optimization problems from engineering and economics consider the minimization of a ratio between physical and/or economical functions, for example cost/time, cost/volume,cost/profit, or other quantities that measure the efficiency of a system. For example, the productivity of industrial systems, defined as the ratio between the realized services in a system within a given period of time and the utilized resources, is used as one of the best indicators of the quality of their operation. Such problems, where the objective function appears as a ratio of functions, constitute fractional programming problem. Due to its importance in modeling various decision processes in management science, operational research, and economics, and also due to its frequent appearance in other problems that are not necessarily economical, such as information theory, numerical analysis, stochastic programming, decomposition algorithms for large linear systems, etc., the fractional programming method has received particular attention in the last three decades.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9789400900356"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "940090035X"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 432,
+      "printType": "BOOK",
+      "categories": ["Mathematics"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=7PPnCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7PPnCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=7PPnCAAAQBAJ&pg=PA395&dq=programming/&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=7PPnCAAAQBAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Fractional_Programming.html?hl=&id=7PPnCAAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Fractional_Programming-sample-pdf.acsm?id=7PPnCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=7PPnCAAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e, Presented at the International Conference on Operational Research at Delhi University, August 10-12, 1967. Sharma, I.C.: Feasible direction approach to fractional \u003cb\u003eprogramming\u003c/b\u003e problems, Opsearch 4(1967)2, 61-72. Sharma, I.C.&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "KAMYAQAAMAAJ",
+    "etag": "6fd7vCYPFa0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KAMYAQAAMAAJ",
+    "volumeInfo": {
+      "title": "BASIC Programming",
+      "subtitle": "Inside & Out",
+      "authors": ["Heinz Josef Bomanns"],
+      "publisher": "Abacus Software",
+      "publishedDate": "1990",
+      "description": "This is the standard reference for both novice and professional PC BASIC programmers. Companion disk included.",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "PSU:000017727297"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 740,
+      "printType": "BOOK",
+      "categories": ["BASIC (Computer program language)"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=KAMYAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=KAMYAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=KAMYAQAAMAAJ&q=programming/&dq=programming/&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=KAMYAQAAMAAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/BASIC_Programming.html?hl=&id=KAMYAQAAMAAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=KAMYAQAAMAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eProgramming\u003c/b\u003e Inside &amp; Out starts with a general introduction to the &quot;ins and outs&quot; of the BASIC \u003cb\u003eprogramming\u003c/b\u003e language. Then you will learn professional \u003cb\u003eprogramming\u003c/b\u003e techniques using sample programs and routines that can easily be adapted&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "cLkrDwAAQBAJ",
+    "etag": "gTqEl1nksD0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cLkrDwAAQBAJ",
+    "volumeInfo": {
+      "title": "PHP Reactive Programming",
+      "authors": ["Martin Sikora"],
+      "publisher": "Packt Publishing Ltd",
+      "publishedDate": "2017-03-24",
+      "description": "Leverage the power of Reactive Programming in PHP About This Book Develop an interesting multiplayer browser game written in RxJS and re-implement it using RxPHP Enhance existing reactive applications by building a CLI tool combining Symfony Console Implement Gearman and Rabbit MQ for asynchronous communication Who This Book Is For This book is aimed at people with a solid knowledge of PHP and programming languages in general. We also assume they have at least a little experience with other technologies such as JavaScript, Node.js, and others. What You Will Learn How to work with the RxPHP library and see what it offers via many examples Use the RxPHP library in combination with Symfony Console The different approaches to using Symfony3's Event Dispatcher component Test your reactive PHP code using PHPUnit Analyze PHP source code and apply a custom set of rules by building a CLI tool In Detail Reactive Programming helps us write code that is concise, clear, and readable. Combining the power of reactive programming and PHP, one of the most widely used languages, will enable you to create web applications more pragmatically. PHP Reactive Programming will teach you the benefits of reactive programming via real-world examples with a hands-on approach. You will create multiple projects showing RxPHP in action alone and in combination with other libraries. The book starts with a brief introduction to reactive programming, clearly explaining the importance of building reactive applications. You will use the RxPHP library, built a reddit CLI using it, and also re-implement the Symfony3 Event Dispatcher with RxPHP. You will learn how to test your RxPHP code by writing unit tests. Moving on to more interesting aspects, you will implement a web socket backend by developing a browser game. You will learn to implement quite complex reactive systems while avoiding pitfalls such as circular dependencies by moving the RxJS logic from the frontend to the backend. The book will then focus on writing extendable RxPHP code by developing a code testing tool and also cover Using RxPHP on both the server and client side of the application. With a concluding chapter on reactive programming practices in other languages, this book will serve as a complete guide for you to start writing reactive applications in PHP. Style and approach This book will teach readers how to build reactive applications in a step-by-step manner. It will also present several examples of reactive applications implemented with different frameworks.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781786461575"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1786461579"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 358,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.1.2.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=cLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=cLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=cLkrDwAAQBAJ&pg=PA1&dq=programming/&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=cLkrDwAAQBAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/PHP_Reactive_Programming.html?hl=&id=cLkrDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=cLkrDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e in languages that support multiple \u003cb\u003eprogramming\u003c/b\u003e paradigms, such as JavaScript, Java, Python, or PHP. Nowadays, reactive \u003cb\u003eprogramming\u003c/b\u003e is closely associated with Reactive Extensions (also called ReactiveX or just Rx); the most&nbsp;..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "KQzaBwAAQBAJ",
+    "etag": "mR4chyNMNfg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KQzaBwAAQBAJ",
+    "volumeInfo": {
+      "title": "Programming with Specifications",
+      "subtitle": "An Introduction to ANNA, A Language for Specifying Ada Programs",
+      "authors": ["David Luckham"],
+      "publisher": "Springer Science & Business Media",
+      "publishedDate": "2012-12-06",
+      "description": "Topics • what this book is about, • its intended audience, • what the reader ought to know, • how the book is organized, • acknowledgements. Specifications express information about a program that is not normally part of the program, and often cannot be expressed in a programming lan guage. In the past, the word \"specification\" has sometimes been used to refer to somewhat vague documentation written in English. But today it indicates a precise statement, written in a machine processable language, about the purpose and behavior of a program. Specifications are written in languages that are just as precise as programming languages, but have additional capabilities that increase their power of expression. The termi nology formal specification is sometimes used to emphasize the modern meaning. For us, all specifications are formal. The use of specifications as an integral part of a program opens up a whole new area of programming - progmmming with specifications. This book describes how to use specifications in the process of building programs, debugging them, and interfacing them with other programs. It deals with a new trend in programming - the evolution of specification languages from the current generation of programming languages. And it describes new strategies and styles of programming that utilize specifications. The trend is just beginning, and the reader, having finished this book, will viii Preface certainly see that there is much yet to be done and to be discovered about programming with specifications.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781461396857"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1461396859"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 416,
+      "printType": "BOOK",
+      "categories": ["Computers"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=KQzaBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=KQzaBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=KQzaBwAAQBAJ&pg=PR8&dq=programming/&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=KQzaBwAAQBAJ&dq=programming/&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Programming_with_Specifications.html?hl=&id=KQzaBwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "DZ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "DZ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Programming_with_Specifications-sample-pdf.acsm?id=KQzaBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=KQzaBwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "... \u003cb\u003eprogramming\u003c/b\u003e have to become more disciplined. Now they are ready to explore \u003cb\u003eprogramming\u003c/b\u003e with specifications. In writing the book, I have had in mind primarily two groups of people: professional software engineers and college&nbsp;..."
+    }
+  }
+]

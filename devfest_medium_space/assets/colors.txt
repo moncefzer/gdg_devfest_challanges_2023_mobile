@@ -1,0 +1,5 @@
+GDG LOGO  Colors  : 
+Green = Color(0xFF0D9D58);
+Blue = Color(0xFF1976D2);
+Red = Color(0xFFEA4334);
+Yellow = Color(0xFFFFCA32);
